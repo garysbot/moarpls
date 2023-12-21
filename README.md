@@ -23,4 +23,5 @@
 - NextAuth
 - MongoDB
 - Mongoose
-
+- Tailwind CSS
+- Flowbite

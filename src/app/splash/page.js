@@ -1,7 +1,9 @@
+import "../globals.css";
+
 export default function Splash() {
   return (
     <>
-      <h1>Hi</h1>
+      Splash Page Here
     </>
   )
 }
