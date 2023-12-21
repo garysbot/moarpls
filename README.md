@@ -6,6 +6,8 @@
     - ☑️ Email
     - ☑️ Google
 - ☑️ Data Architecture
+    - ✅ Install Mongoose
+    - ✅ Install MongoDB
     - ☑️ `User` Model & Validations
     - ☑️ `Joke` Model & Validations
     - ☑️ `Meme` Model & Validations
@@ -39,3 +41,6 @@
 - jimp
 - [TTF2FNT](https://ttf2fnt.com/)
 - NextAuth
+
+### Learning Resources
+![MongoDB & Next.js App Router](https://jasonwatmore.com/next-js-13-app-router-mongodb-user-rego-and-login-tutorial-with-example)
