@@ -53,4 +53,4 @@
 ### Learning Resources
 - [MongoDB & Next.js Integration](https://github.com/garysbot/mongodb-nextjs-connection-sample)
 - [MongoDB & NextAuth Adapter](https://authjs.dev/reference/adapter/mongodb)
-- 
+- [Vercel & MongoDB](https://github.com/vercel/next.js/tree/canary/examples/with-mongodb)
