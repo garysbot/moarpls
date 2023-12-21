@@ -9,16 +9,7 @@ export default function Home() {
     <>
       <NavMenu />
       <main>
-
-        <div>
-          <h1>Description</h1>
-          <Splash/>
-        </div>
-
-        <div>
-          <h1>Center</h1>
-        </div>
-
+        <Splash/>
       </main>
     </>
 

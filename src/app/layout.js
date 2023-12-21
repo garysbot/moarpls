@@ -16,11 +16,10 @@ export default async function RootLayout({ children }) {
 
   return (
     <html lang="en">
-      <body className={`${inter.className} bg-slate-950 text-white`}>
+      <body className={`${inter.className} bg-slate-950 text-white font-mono m-10`}>
         <SessionProvider session={session}>
           {children}
         </SessionProvider>
-        {/* <script src=""></script> */}
       </body>
     </html>
   );

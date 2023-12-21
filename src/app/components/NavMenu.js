@@ -32,7 +32,7 @@ function AuthButton() {
 
 export default function NavMenu() {
   return (
-    <Navbar className="bg-slate-950">
+    <Navbar className="bg-slate-950	">
       <Image src={logo} width={50} height={50} alt="logo"></Image>
       <AuthButton />
     </Navbar>
