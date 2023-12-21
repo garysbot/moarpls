@@ -1,6 +1,6 @@
 # moarpls
 
-### Features
+## Features
 - ✅ User Auth & Sessions with NextAuth
     - ✅ Github
     - ☑️ Email
@@ -33,7 +33,19 @@
   - ☑️ `joke` rendered with jimp's `print` method
   - ☑️ Export for download
 
-### Tech
+<br><br>
+
+## Timeline
+- Wednesday December 20th
+    - ✅ User Auth & Sessions with Next Auth -- Github avail; others future.
+    - ✅ Setup and tech stack choices
+- Thursday December 21st
+    - ✅ Frontend - Main components and styling
+    - ✅ Data Architecture - Mongoose Models, MongoDB Database Connection
+
+<br><br>
+
+## Tech
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -50,7 +62,9 @@
 - [TTF2FNT](https://ttf2fnt.com/)
 - NextAuth
 
-### Learning Resources
+<br><br>
+
+## Resources
 - [MongoDB & Next.js Integration](https://github.com/garysbot/mongodb-nextjs-connection-sample)
 - [MongoDB & NextAuth Adapter](https://authjs.dev/reference/adapter/mongodb)
 - [Next.js + MongoDB + Vercel Connection Guide](https://github.com/vercel/next.js/tree/canary/examples/with-mongodb)
