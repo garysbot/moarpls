@@ -11,7 +11,7 @@
     - ☑️ `User` Model & Validations
     - ☑️ `Joke` Model & Validations
     - ☑️ `Meme` Model & Validations
-    - ☑️ MongoDB Atlas database set up
+    - ✅ MongoDB Atlas database set up
 - ☑️ User Upload & Interface
   - ✅ Form input for the `joke`
   - ✅ Result output components
