@@ -11,7 +11,7 @@
     - ☑️ `User` Model & Validations
     - ☑️ `Joke` Model & Validations
     - ☑️ `Meme` Model & Validations
-    - ☑️ MongoDB Atlas database set up
+    - ✅ MongoDB Atlas database set up
 - ☑️ User Upload & Interface
   - ✅ Form input for the `joke`
   - ✅ Result output components
@@ -43,4 +43,5 @@
 - NextAuth
 
 ### Learning Resources
-- [MongoDB & Next.js App Router](https://jasonwatmore.com/next-js-13-app-router-mongodb-user-rego-and-login-tutorial-with-example)
+- [MongoDB & Next.js Integration](https://github.com/garysbot/mongodb-nextjs-connection-sample)
+    - 
