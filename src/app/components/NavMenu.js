@@ -2,11 +2,9 @@
 import Link from "next/link";
 import Image from "next/image";
 import { signIn, signOut, useSession } from "next-auth/react";
+import logo from "../../../public/brand/logo.svg";
 
-
-import { Dropdown } from "flowbite-react";
-
-
+import { Button, Dropdown, Navbar } from "flowbite-react";
 
 function AuthButton() {
   const { data: session } = useSession();
@@ -14,39 +12,29 @@ function AuthButton() {
   if (session) {
     return (
       <>
-        <div>{session?.user?.name}</div>
-        <button onClick={() => signOut()}>Sign out</button>
+        <Dropdown gradientDuoTone="purpleToBlue" label={session?.user?.name}>
+          <Dropdown.Item gradientDuoTone="purpleToBlue">
+            <Button outline gradientDuoTone="purpleToBlue" onClick={() => signOut()}>Sign out</Button>
+          </Dropdown.Item>
+        </Dropdown>
       </>
     );
   }
 
   return (
     <>
-      <div>Not signed in</div>
-      <button onClick={() => signIn()}>Sign In</button>
+      <Button gradientDuoTone="purpleToBlue" onClick={() => signIn()}>
+        Sign In
+      </Button>
     </>
   );
 }
 
 export default function NavMenu() {
   return (
-    <div>
-      {/* <Image></Image> */}
-      <Dropdown label="Dropdown button">
-        <Dropdown.Item>
-          Dashboard
-        </Dropdown.Item>
-        <Dropdown.Item>
-          Settings
-        </Dropdown.Item>
-        <Dropdown.Item>
-          Earnings
-        </Dropdown.Item>
-        <Dropdown.Item>
-          Sign out
-        </Dropdown.Item>
-      </Dropdown>
+    <Navbar className="bg-slate-950">
+      <Image src={logo} width={50} height={50} alt="logo"></Image>
       <AuthButton />
-    </div>
+    </Navbar>
   );
 }

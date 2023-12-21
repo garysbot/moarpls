@@ -1,7 +1,7 @@
 # moarpls
 
 ### Features
-- User Auth
+- ✅ User Auth & Sessions with NextAuth
 - User Upload & Interface
   - Form input for the `joke`
   - `user_prof_pic` upload for the mock ChatGPT screenshot
@@ -23,5 +23,5 @@
 - NextAuth
 - MongoDB
 - Mongoose
-- Tailwind CSS
-- Flowbite
+- [Tailwind CSS](https://tailwindcss.com/docs/text-color)
+- [Flowbite](https://www.flowbite-react.com/docs/components/accordion)
