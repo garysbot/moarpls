@@ -8,10 +8,14 @@
 - ☑️ Data Architecture
     - ✅ Install Mongoose
     - ✅ Install MongoDB
-    - ☑️ `User` Model & Validations
-    - ☑️ `Joke` Model & Validations
-    - ☑️ `Meme` Model & Validations
     - ✅ MongoDB Atlas database set up
+    - ✅ `User` Model
+    - ✅ `Joke` Model
+    - ✅ `Meme` Model
+    - ☑️ Model Validations
+        - ☑️ Schema
+        - ☑️ Server
+        - ☑️ Client
 - ☑️ User Upload & Interface
   - ✅ Form input for the `joke`
   - ✅ Result output components
