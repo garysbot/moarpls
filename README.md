@@ -24,6 +24,7 @@
   - ☑️ Export for download
 
 ### Tech
+<p>
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
@@ -32,7 +33,8 @@
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-0EA5E9?style=flat-square&logo=tailwindCSS&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
-  
+</p>
+
 - [Flowbite](https://www.flowbite-react.com/docs/components/accordion)
 - jimp
 - [TTF2FNT](https://ttf2fnt.com/)
