@@ -69,3 +69,5 @@
 - [MongoDB & Next.js Integration](https://github.com/garysbot/mongodb-nextjs-connection-sample)
 - [MongoDB & NextAuth Adapter](https://authjs.dev/reference/adapter/mongodb)
 - [Next.js + MongoDB + Vercel Connection Guide](https://github.com/vercel/next.js/tree/canary/examples/with-mongodb)
+- [Tailwind Docs](https://tailwindcss.com/docs/font-weight)
+- [Flowbite Docs](https://www.flowbite-react.com/docs/components/button)
