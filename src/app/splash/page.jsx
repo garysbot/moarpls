@@ -43,7 +43,7 @@ export default function Splash() {
             imgSrc="/samples/sample1.png"
           >
             <p className="font-normal text-gray-700 dark:text-gray-400 flex items-center justify-center">
-              Here are the results of "NOUN" and "ADJECTIVE".
+              Here are the results of &quot;NOUN&quot; and &quot;ADJECTIVE&quot;.
             </p>
             <Button size="sm" outline gradientDuoTone="pinkToOrange">moarpls</Button>
           </Card>

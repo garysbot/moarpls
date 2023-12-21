@@ -1,6 +1,7 @@
 'use client';
 
 import Image from 'next/image';
+import Link from 'next/link';
 import { signIn, signOut, useSession } from 'next-auth/react';
 import { Button, Dropdown, Navbar } from 'flowbite-react';
 import logo from '../../../public/brand/logo.svg';
@@ -28,7 +29,9 @@ function AuthButton() {
 export default function NavMenu() {
   return (
     <Navbar className="bg-slate-950">
-      <Image src={logo} width={50} height={50} alt="logo" />
+      <Link href="/">
+        <Image src={logo} width={50} height={50} alt="logo" />
+      </Link>
       <AuthButton />
     </Navbar>
   );

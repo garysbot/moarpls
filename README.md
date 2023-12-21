@@ -2,9 +2,18 @@
 
 ### Features
 - ✅ User Auth & Sessions with NextAuth
+    - ✅ Github
+    - ☑️ Email
+    - ☑️ Google
+- ☑️ Data Architecture
+    - ☑️ `User` Model & Validations
+    - ☑️ `Joke` Model & Validations
+    - ☑️ `Meme` Model & Validations
+    - ☑️ MongoDB Atlas database set up
 - ☑️ User Upload & Interface
-  - ☑️ Form input for the `joke`
-  - ☑️ `user_prof_pic` upload for the mock ChatGPT screenshot
+  - ✅ Form input for the `joke`
+  - ✅ Result output components
+  - ☑️ `user_prof_pic` upload or grab from auth for the mock ChatGPT screenshot
 - ☑️ `moarpls` patented `moarmoarmoar` logic
   - ☑️ Chat Completions (JSON Mode) with the OpenAI Chat API takes in the user input `joke`
   - ☑️ Used as Prompts in the OpenAI Images API to generate images with DALL-E 3
