@@ -1,4 +1,5 @@
 # moarpls
+<img alt="ChatGPT Meme Generator" src="./public/samples/readme-preview.png" />
 
 ### Features
 - ✅ User Auth & Sessions with NextAuth
