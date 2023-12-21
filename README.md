@@ -33,7 +33,7 @@
   - ☑️ `joke` rendered with jimp's `print` method
   - ☑️ Export for download
 
-<br><br>
+<br>
 
 ## Timeline
 - Wednesday December 20th
@@ -43,7 +43,7 @@
     - ✅ Frontend - Main components and styling
     - ✅ Data Architecture - Mongoose Models, MongoDB Database Connection
 
-<br><br>
+<br>
 
 ## Tech
 <p>
@@ -62,7 +62,7 @@
 - [TTF2FNT](https://ttf2fnt.com/)
 - NextAuth
 
-<br><br>
+<br>
 
 ## Resources
 - [MongoDB & Next.js Integration](https://github.com/garysbot/mongodb-nextjs-connection-sample)
