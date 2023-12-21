@@ -5,6 +5,7 @@
     - ✅ Github
     - ☑️ Email
     - ☑️ Google
+      
 - ☑️ Data Architecture
     - ✅ Install Mongoose
     - ✅ Install MongoDB
@@ -20,9 +21,11 @@
   - ✅ Form input for the `joke`
   - ✅ Result output components
   - ☑️ `user_prof_pic` upload or grab from auth for the mock ChatGPT screenshot
+    
 - ☑️ `moarpls` patented `moarmoarmoar` logic
   - ☑️ Chat Completions (JSON Mode) with the OpenAI Chat API takes in the user input `joke`
   - ☑️ Used as Prompts in the OpenAI Images API to generate images with DALL-E 3
+    
 - ☑️ `jimp` to merge `png` layers into an export for user download
   - ☑️ Background image with color #343541 to mimick ChatGPT.com UI
   - ☑️ Combined with the Images API response `png`
