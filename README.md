@@ -43,4 +43,5 @@
 - NextAuth
 
 ### Learning Resources
-- [MongoDB & Next.js App Router](https://jasonwatmore.com/next-js-13-app-router-mongodb-user-rego-and-login-tutorial-with-example)
+- [MongoDB & Next.js Integration](https://github.com/garysbot/mongodb-nextjs-connection-sample)
+    - 
