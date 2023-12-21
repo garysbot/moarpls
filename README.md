@@ -5,6 +5,7 @@
     - ✅ Github
     - ☑️ Email
     - ☑️ Google
+    - ☑️ MongoDB Adapter
       
 - ☑️ Data Architecture
     - ✅ Install Mongoose
@@ -51,4 +52,5 @@
 
 ### Learning Resources
 - [MongoDB & Next.js Integration](https://github.com/garysbot/mongodb-nextjs-connection-sample)
-    - 
+- [MongoDB & NextAuth Adapter](https://authjs.dev/reference/adapter/mongodb)
+- 
