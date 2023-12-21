@@ -12,6 +12,7 @@
     "flowbite": "^2.2.1",
     "flowbite-react": "^0.7.2",
     "jimp": "^0.22.10",
+    "mongodb": "^6.3.0",
     "mongoose": "^8.0.3",
     "next": "14.0.4",
     "next-auth": "^4.24.5",
